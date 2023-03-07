@@ -41,7 +41,7 @@ export const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/wilberforce-sedem-haibor-59210120b/" target="_blank" className="hover:underline">
+          <a href="https://www.linkedin.com/in/wilberforce-sedem-haibor-59210120b/" target="_blank" rel="noreferrer" className="hover:underline">
             LinkedInc
           </a>
         </li>
